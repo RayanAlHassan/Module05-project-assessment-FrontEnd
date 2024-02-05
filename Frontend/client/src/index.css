@@ -1,0 +1,26 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&family=Roboto&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+   scroll-behavior: smooth;
+  }
+  div,
+  p {
+    font-weight: 300;
+  }
+  :root {
+    --main-font-size:18px;
+    --title-font-family: 'Protest Riot', sans-serif;
+    --silver-color: #646a47;
+    --brown-color: #4c2e2d;
+    --main-color: #fee7cb;
+    --border-radius: 30px;
+    --margin-LR: 8rem;
+  }
+  

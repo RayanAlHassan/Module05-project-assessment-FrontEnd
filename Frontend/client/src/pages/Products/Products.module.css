@@ -1,0 +1,24 @@
+.productlist{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+  }
+  
+  .productcard{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid #ddd;
+    padding: 15px;
+    height: 25rem;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #f9f9f9;
+    text-decoration: none;
+    border-radius: 8px;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  
